@@ -29,6 +29,7 @@ O Guia de Aprendizado (Roteiro de Estudos) presente nas fontes propõe uma trilh
 ► Fase 3: Métodos Amostrais: Ensina a avaliar a representatividade e a margem de erro de pesquisas. <br>
 ► Fase 4: Análise Avançada Aplicada: Trata de fenômenos complexos como o Paradoxo de Simpson e o Quarteto de Anscombe 
 
+<b>Fase 1: Reconhecimento de Enganos </b>  <br>
 
 <b>prompt:</b>  <br>
 Quais são os conceitos da fase 1 fundamentais para começar? <br>
@@ -73,6 +74,7 @@ Com base nos cinco conceitos fundamentais de "reconhecimento de enganos" apresen
 <b>conclusão</b>  <br>
 A fase de "reconhecimento de enganos" explora cinco armadilhas estatísticas: a amostragem viciada (casos de Yale e eleição de 1948 nos EUA), que ignora parcelas da população e é corrigida exigindo amostras aleatórias e representativas; os gráficos manipulados com eixos truncados, que exageram variações e são desmascarados pela análise técnica das escalas; o equívoco da média isolada (salários com extrema desigualdade), mitigado pelo uso de medianas e modas; a causalidade falsa (piratas e aquecimento global), esclarecida ao distinguir correlação de causalidade e identificar terceiros fatores; e a colheita de cerejas (roubos de veículos em SP), onde a escolha capciosa de períodos é combatida pela avaliação da série histórica completa, garantindo em todos os cenários a integridade e a representatividade na leitura dos dados.
 
+<b>Fase 2: Diagnóstico de Vieses </b>  <br>
 <b>prompt:</b>  <br>
 Quais são os conceitos fundamentais da fase 2? Cite os casos relatados por seus autores,  explicando qual o problema real que eles encontraram e como a estatistica ajudou-os a evitar uma conclusão errada. <br>
 
@@ -82,7 +84,7 @@ Aqui estão os conceitos fundamentais desta fase e os casos práticos relatados 
 
 1. Falácia da Conjunção <br>
 Caso Prático: O "Problema de Linda" (Daniel Kahneman e Amos Tversky) ou o caso de "Klaus" (Rolf Dobelli).<br>
-Problema Real: Os participantes julgaram que era mais provável Linda ser "caixa de banco e ativista feminista" do que apenas "caixa de banco", simplesmente porque a descrição detalhada parecia mais coerente com o perfil dela. <br>
+Problema Real: Os participantes julgaram que era mais provável Linda ser "caixa de banco e ativista feminista" do que apenas "caixa de banco", simplesmente porque a descrição detalhada de Linda parecia mais coerente com o perfil dela. Adicionar mais detalhes a um cenário reduz as chances estatísticas de ele acontecer. <br>
 Como a Estatística ajudou: Através da Regra da Conjunção, a estatística prova que a probabilidade de dois eventos ocorrerem juntos (A∩B) é sempre menor ou igual à probabilidade de um deles ocorrer sozinho. Ela evita o erro de preferir uma história "bonita" ou detalhada em vez da logicamente mais provável.
 
 3. Falácia do Custo Irrecuperável <br>
@@ -107,6 +109,8 @@ Com base nos quatro conceitos fundamentais de "Diagnóstico de Vieses" apresenta
 
 <b>conclusão</b>  <br>
 Essa fase concentra-se no diagnostico dos vieses cognitivos que distorcem o julgamento humano diante de probabilidades e riscos. Entre os conceitos centrais estão a falácia da conjunção, exemplificada pelo "Problema de Linda" de Kahneman e Tversky, em que pessoas julgam erroneamente uma combinação de eventos mais provável que um evento isolado, sendo corrigida pela Regra da Conjunção; a Falácia do Custo Irrecuperável, vista em decisões de manter investimentos ruins por apego ao que já foi gasto, corrigida pelo foco estatístico em dados prospectivos; a Falácia do Apostador, ilustrada pelo famoso "Caso de Monte Carlo" de 1913, em que jogadores perderam fortunas acreditando que uma sequência de resultados geraria uma compensação futura, sendo desmentida pela independência estatística dos eventos; e a Regressão à Média, que explica como melhorias após momentos extremos costumam ser atribuídas erroneamente a intervenções específicas, quando na verdade refletem apenas o retorno natural das flutuações aleatórias à média histórica. Em todos os casos, a estatística funciona como uma ferramenta corretiva essencial, permitindo distinguir entre coincidência, causalidade real e mero acaso, evitando assim conclusões precipitadas ou intuitivamente atraentes, mas matematicamente incorretas.
+
+<b> Fase 3: Métodos Amostrais </b>  <br>
 
 <b>prompt:</b>  <br>
 Quais são os conceitos fundamentais da fase 3? Cite os casos relatados por seus autores,  explicando qual o problema real que eles encontraram e como a estatistica ajudou-os a evitar uma conclusão errada. <br>
@@ -138,6 +142,7 @@ Atraves dessas historias aprendemos que antes de aceitar qualquer conclusão é 
 
 <b>conclusão</b>  <br>
 A Fase 3, dedicada aos Métodos Amostrais, estabelece que uma amostra só tem valor estatístico quando representa fielmente a população total. Quatro principios são ilustrados: a pesquisa sobre a renda dos ex-alunos de Yale (1924), que foi distorcida pela autosseleção de respondentes; a previsão eleitoral de 1948 pelo Chicago Tribune, cujo viés socioeconômico excluiu os mais pobres por usarem pesquisa telefônica; o reforço da blindagem de aviões na Segunda Guerra Mundial, onde o viés de sobrevivência levava engenheiros a proteger o lugar errado; e as pesquisas de preferência de revistas, em que a pressão social induzia respostas falsas. Em todos os casos, o papel da estatística foi o mesmo: identificar o defeito no processo de coleta da amostra, seja autosseleção, exclusão demográfica, dados ausentes ou desonestidade do respondente — evitando que conclusões equivocadas fossem aceitas como verdades absolutas e, em alguns casos, literalmente salvando vidas.
+
 
 <b>prompt:</b>  <br>
 Quais são os conceitos fundamentais da fase 4? Cite os casos relatados por seus autores,  explicando qual o problema real que eles encontraram e como a estatistica ajudou-os a evitar uma conclusão errada. <br>
